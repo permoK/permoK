@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 ![jQuery](https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![REST API](https://img.shields.io/badge/rest_api-005571?style=for-the-badge&logo=rest-api&logoColor=white)
 ![Django REST Framework](https://img.shields.io/badge/django_rest_framework-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![EC2](https://img.shields.io/badge/amazon_ec2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/kali_linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
