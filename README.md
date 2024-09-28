@@ -43,3 +43,12 @@ Here are some ideas to get you started:
 ![Xata](https://img.shields.io/badge/xata-8A73FF?style=for-the-badge&logo=xata&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+# 📊GitHub Stats :
+![](https://github-readme-streak-stats.herokuapp.com/?user=permoK&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=permoK&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=permoK&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+
