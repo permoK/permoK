@@ -44,6 +44,9 @@ Here are some ideas to get you started:
 ![TensorFlow](https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
+### 🌟 Codewars Profile
+![Codewars Badge](https://www.codewars.com/users/permoK/badges/large)
+
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=permoK&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=permoK&theme=dracula&hide_border=false)<br/>
