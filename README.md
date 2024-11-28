@@ -43,6 +43,8 @@ Here are some ideas to get you started:
 ![Xata](https://img.shields.io/badge/xata-8A73FF?style=for-the-badge&logo=xata&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
 
 ### 🌟 Codewars Profile
 ![Codewars Badge](https://www.codewars.com/users/permoK/badges/large)
